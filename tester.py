@@ -1,3 +1,5 @@
+__author__ = 'monicameyer'
+
 
 def transform_sklearn_dictionary(input_dict):
     X = input_dict['data']
