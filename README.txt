@@ -52,13 +52,3 @@ file producing the experimental training and test data using random forest imput
 
 knn_logistic_hyperparam_vis.R: 
 knn and logistic hyperparameter tuning visualization
-
-
-PICKLE OBJECTS
-
-chooseFeatFit.pkl
-knnFit.pkl
-logisticFit.pkl
-naiveBayesFit.pkl
-randomForestFit.pkl
-svmFit.pkl
